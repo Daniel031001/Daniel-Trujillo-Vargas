@@ -9,7 +9,7 @@
  *
  * @author OHMASTER
  */
-public class Dog2 extends Dog {
+public class 2 extends 1 {
 
 	private double portion;
 
